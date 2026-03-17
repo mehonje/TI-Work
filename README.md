@@ -7,7 +7,7 @@ If you want to use them, go ahead!
   4. Select the "Add content from computer to selected calculator(s)" button in TI-Connect and select the programs you want to upload.
 
 Description of Programs:
-  ##TI-BASIC
+  ## TI-BASIC
     ##ARC
       Inputs: DEGREES, RADIUS
       Outputs: ARC LENGTH
