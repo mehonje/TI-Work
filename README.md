@@ -7,22 +7,22 @@ If you want to use them, go ahead!
   4. Select the "Add content from computer to selected calculator(s)" button in TI-Connect and select the programs you want to upload.
 
 Description of Programs:
-  TI-BASIC
-    ARC
+  ##TI-BASIC
+    ##ARC
       Inputs: DEGREES, RADIUS
       Outputs: ARC LENGTH
       Calculates ARC LENGTH based on DEGREES and RADIUS
       Displays arc
-    BIRD
+    ##BIRD
       Inputs: None
       Outputs: Score
       Flappy bird
-    CIRCLE
+    ##CIRCLE
       Inputs: H, K, RADIUS
       Outputs: DIAMETER, CIRCUMFERENCE, AREA
       Calculates diameter, circumference, and area based on radius
       Displays circle with radius RADIUS at (H, K)
-    CLOCK
+    ##CLOCK
       Inputs: Choice between Clock and Set alarm
       Outputs: Date, time
       Displays an analog clock. Shuts off after alarm if Set alarm was selected
