@@ -1,4 +1,4 @@
-This is where I store all my TI-BASIC (and a few Python) programs.
+This is where I store all my TI-Basic (and a few Python) programs I use on my TI-84 Plus CE.
 
 If you want to use them, go ahead!
   1. Download and install the TI-Connect software ([https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware](https://education.ti.com/en/software/details/en/B59F6C83468C4574ABFEE93D2BC3F807/swticonnectsoftware))
