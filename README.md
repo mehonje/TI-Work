@@ -6,14 +6,14 @@ If you want to use them, go ahead!
   3. Run the TI-Connect app, and hook up your calculator to your pc using a USB-A-to-USB-mini-b cable.
   4. Select the "Add content from computer to selected calculator(s)" button in TI-Connect and select the programs you want to upload.
 
-Description of Programs:
-  TI-BASIC
-    ARC\
-      Inputs: DEGREES, RADIUS
-      Outputs: ARC LENGTH
-      Calculates ARC LENGTH based on DEGREES and RADIUS
-      Displays arc
-    BIRD
+Description of Programs: 
+  TI-BASIC 
+    ARC 
+      Inputs: DEGREES, RADIUS 
+      Outputs: ARC LENGTH 
+      Calculates ARC LENGTH based on DEGREES and RADIUS 
+      Displays arc 
+    BIRD 
       Inputs: None
       Outputs: Score
       Flappy bird
