@@ -8,7 +8,7 @@ If you want to use them, go ahead!
 
 Description of Programs:
   TI-BASIC
-    ARC
+    ARC\
       Inputs: DEGREES, RADIUS
       Outputs: ARC LENGTH
       Calculates ARC LENGTH based on DEGREES and RADIUS
