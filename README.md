@@ -31,7 +31,7 @@ Description of Programs:\
     CMNFCTRS\
       Inputs: N1, N2\
       Outputs: Common factors\
-      Finds common factors of N1 and N2\
+      Finds common factors of N1 and N2 and displays logic\
     DIALATE\
       Inputs: X, Y, K\
       Outputs: (H, K) scaled by K\
