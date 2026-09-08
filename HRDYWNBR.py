@@ -1,0 +1,5 @@
+p=float(input("P? "))
+q=float(input("Q? "))
+print("P**2: "+str(p*p)+", "+str(p*p*100)+"%")
+print("2PQ: "+str(2*p*q)+", "+str(2*p*q*100)+"%")
+print("Q**2: "+str(q*q)+", "+str(q*q*100)+"%")
